@@ -1,0 +1,20 @@
+lung cancer,70,cough,dizziness,nausea
+influenza,75,cough,dizziness,nausea
+bronchitis,48,cough,dizziness,nausea
+common cold,14,cough,dizziness,nausea
+middle ear infection,50,cough,dizziness,fever
+bacterial pneumonia,60,cough,dizziness,fever
+respiratory syncytial virus,58,cough,dizziness,fever
+asthma,45,cough,dizziness,fever,diarrhea
+whooping cough,51,cough,dizziness,fever,diarrhea
+lyme disease,61,cough,dizziness,fever,diarrhea
+acute sinusitis,49,cough,dizziness,nausea,fever,diarrhea,headache
+strep throat,56,headache,throat irritation
+tonsillitis,78,headache,throat irritation
+hay fever,67,headache,throat irritation
+adenovirus infection,49,headache,throat irritation,fever,diarrhea
+viral gastroenteritis,55,headache,throat irritation,fever,diarrhea
+mononucleosis,47,headache,throat irritation,fever,diarrhea
+stroke,80,headache,throat irritation,fever,diarrhea
+west nile virus,76,headache,throat irritation,fever,diarrhea
+swine flu,71,headache,throat irritation,fever,diarrhea,cough
